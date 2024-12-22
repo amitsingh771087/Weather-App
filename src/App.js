@@ -35,7 +35,8 @@ function App() {
       (err)=>console.log(err));
   };
 
-  
+  console.log(currentWeather);
+  console.log(forcast);
   
   
   return (
